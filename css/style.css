@@ -251,7 +251,7 @@ h2 {
 }
 .title__image {
   height: 387px;
-  background: url(../img/man.svg) 0 8%/cover no-repeat;
+  background: url('../img/man.svg') 0 8%/cover no-repeat;
   margin: 0px 0px 104px 0px;
 }
 
