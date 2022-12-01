@@ -163,7 +163,6 @@ body._lock {
     bottom: 50%;
     transform: rotate(45deg) translate(0px, 50%);
   }
-  
   .header__menu {
     position: fixed;
     top: 0;
@@ -180,7 +179,6 @@ body._lock {
   }  
   .menu__list {
     display: block;
-    
   }
   .menu__item {
     margin: 0px 0px 67px 26px;
@@ -189,14 +187,9 @@ body._lock {
     font-size: 34px;
   }
 }
-
-
 .menu {
 
 }
-
-
-
 .menu__link:focus {
   color: #000;
 }
@@ -215,11 +208,10 @@ h2 {
   font-weight: 700;
 }
 .title {
-  
+  padding: 111px 0px 104px 0px;
 }
 .title__container img {
   max-width: 100%;
-  
 }
 .title__content {
   display: flex;
@@ -227,7 +219,7 @@ h2 {
   align-items: flex-end;
   font-size: 18px;
   color: #000;
-  margin: 111px 0px 35px 0px;
+  margin: 0px 0px 35px 0px;
 }
 .title__text {
   line-height: 22px;
@@ -252,7 +244,6 @@ h2 {
 .title__image {
   height: 387px;
   background: url('../img/man.svg') 0 8%/cover no-repeat;
-  margin: 0px 0px 104px 0px;
 }
 
 /* ======================================================================================== */
@@ -288,8 +279,6 @@ h2 {
   text-align: center;
   padding: 91px 0px 0px 0px;
 }
-
-
 .skills__title {
   margin: 0px 0px 69px 0px;
 }
